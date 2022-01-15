@@ -69,6 +69,8 @@
 
 <a href = "https://www.linkedin.com/in/emmanuel-oluleye-5933951b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/DeonAtricks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+   <a href="https://fb.com/deonatricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deonatricks" height="30" width="40" /></a>
+<a href="https://dribbble.com/deonatricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="deonatricks" height="30" width="40" /></a>
 
 
 </p>
