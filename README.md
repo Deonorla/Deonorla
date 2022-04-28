@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on scaling up my React skills. 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
