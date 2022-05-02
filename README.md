@@ -7,7 +7,7 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on scaling up my React skills. 
+- 🔭 React Lover. 
 
 - 🌱 I’m currently learning **Fullstack Development**
 
