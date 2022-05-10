@@ -26,11 +26,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deonorla&show_icons=true&locale=en" alt="deonorla" /></p>
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deonorla&label=Profile%20views&color=0e75b6&style=flat" alt="deonorla" /> </p>
 
 
