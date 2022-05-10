@@ -1,4 +1,4 @@
-<a href="#"><img width="100px" height="auto" src="https://i.pinimg.com/564x/6b/16/00/6b160049f8a0505a8a1f2a07a9534ead.jpg" height="100px" border-radius"50%"/></a>
+<a href="#"><img width="100px" height="auto" src="https://i.pinimg.com/564x/6b/16/00/6b160049f8a0505a8a1f2a07a9534ead.jpg" height="100px" /></a>
 
 <h1 align="left">Hi, I'm Emmanuel</h1>
 <h3 align="left">I'm a passionate Front-End Developer.</h3>
