@@ -7,7 +7,7 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 React Lover. 
+- 🔭 Love coding React. 
 
 - 🌱 I’m currently learning **Fullstack Development**
 
