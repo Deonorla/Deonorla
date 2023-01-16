@@ -9,7 +9,7 @@
 
 - 🔭 Love coding React. 
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Fluttter**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
