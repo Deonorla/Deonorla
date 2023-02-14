@@ -7,7 +7,7 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 Love coding React. 
+- 🔭 Love coding React, am currently working on software and blockchain development. 
 
 - 🌱 I’m currently learning **Fluttter**
 
