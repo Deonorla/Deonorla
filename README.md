@@ -24,7 +24,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deonorla&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apideonorlaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deonorla&label=Profile%20views&color=0e75b6&style=flat" alt="deonorla" /> </p>
