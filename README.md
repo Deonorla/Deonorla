@@ -24,7 +24,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deonorla&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Deonorla's GitHub stats](https://github-readme-stats.vercel.app/apideonorla=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apideonorla=anuraghazra&theme=dark&show_icons=true)
 
 
 
