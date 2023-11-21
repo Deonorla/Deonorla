@@ -7,9 +7,9 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 Love coding React, am currently working on software and blockchain development. 
+- 🔭 I Love coding, am currently working on Gamebloc which is a software on the blockchain. 
 
-- 🌱 I’m currently learning **Fluttter**
+- 🌱 I am also currently learning **Fluttter**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
