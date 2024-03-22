@@ -7,7 +7,7 @@
  
 ## 🙋‍♂️ About Me
 
-- 🔭 I Love programming, am currently working on Gamebloc which is a gaming software on the blockchain. 
+- 🔭 I love turning codes to beautiful designs , am currently working on Gamebloc which is a gaming software on the ICP(Internet Computer Protocol )blockchain. 
 
 - 🌱 I am also currently learning **Fluttter**
 
