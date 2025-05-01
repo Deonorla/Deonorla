@@ -1,46 +1,42 @@
-<a href="#"><img width="25%"  border-radius="50%" height="auto" src="https://i.pinimg.com/564x/6b/16/00/6b160049f8a0505a8a1f2a07a9534ead.jpg" height="200px" /></a>
+<a href="#"><img width="25%" style="border-radius:50%;" src="https://i.pinimg.com/564x/6b/16/00/6b160049f8a0505a8a1f2a07a9534ead.jpg" /></a>
 
-<h1 align="left">Hi, I'm Emmanuel</h1>
-<h3 align="left">I'm a Front-End Developer.</h3>
+<h1 align="left">Hi, I'm Emmanuel 👋</h1>
+<h3 align="left">Frontend Developer | Web3 | React | Blockchain Enthusiast</h3>
 
-   
- 
-## 🙋‍♂️ About Me
+---
 
-- 🔭 I love turning codes to beautiful designs , am currently working on Gamebloc which is a gaming software on the ICP(Internet Computer Protocol )blockchain. 
+## 🧑‍💻 About Me
 
-- 🌱 I am also currently learning **Fluttter**
+- 🔨 I’m currently the Lead Frontend Developer at [GameBloc](https://gamebloc.app), building a decentralized gaming tournament platform on the **Internet Computer (ICP) blockchain**.
+- 🚀 I build modern, scalable UIs with **React**, **Next.js**, **TypeScript**, and integrate with Web3 protocols like **NEAR** and **ICP**.
+- 📱 Also exploring cross-platform development with **Flutter** for mobile/web apps.
+- 💬 I enjoy collaborating on **open-source** and blockchain-based projects.
+- 📫 Reach me at **deonoluleye@gmail.com**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+---
 
-- 👨‍💻 All of my projects are available here on github
+## 🛠️ Languages & Tools
 
-- 📫 How to reach me **deonoluleye@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,javascript,typescript,dart,docker,git" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,dart,flutter,git,docker,figma,vscode" />
   </a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deonorla&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
 
+## 📈 GitHub Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deonorla&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deonorla&label=Profile%20views&color=0e75b6&style=flat" alt="deonorla" /> </p>
+---
 
+## 🌐 Connect with Me
 
-<p align="left"> <a href="https://twitter.com/deonatricks" target="blank"><img src="https://img.shields.io/twitter/follow/deonatricks?logo=twitter&style=for-the-badge" alt="deonatricks" /></a> </p>
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/emmanuel-oluleye-5933951b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DeonAtricks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-   
+  <a href="https://www.linkedin.com/in/emmanuel-oluleye-5933951b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/DeonAtricks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deonorla&label=Profile%20views&color=0e75b6&style=flat" alt="deonorla" /> </p>
 
