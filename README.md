@@ -7,7 +7,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔨 I’m currently the Lead Frontend Developer at [GameBloc](https://gamebloc.app), building a decentralized gaming tournament platform on the **Internet Computer (ICP) blockchain**.
 - 🚀 I build modern, scalable UIs with **React**, **Next.js**, **TypeScript**, and integrate with Web3 protocols like **NEAR** and **ICP**.
 - 📱 Also exploring cross-platform development with **Flutter** for mobile/web apps.
 - 💬 I enjoy collaborating on **open-source** and blockchain-based projects.
