@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 I build modern, scalable UIs with **React**, **Next.js**, **TypeScript**, and integrate with Web3 protocols like **NEAR** and **ICP**.
+- 🚀 I build modern, scalable UIs with **React**, **Next.js**, **TypeScript**.
 - 📱 Also exploring cross-platform development with **Flutter** for mobile/web apps.
 - 💬 I enjoy collaborating on **open-source** and blockchain-based projects.
 - 📫 Reach me at **deonoluleye@gmail.com**
