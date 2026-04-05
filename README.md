@@ -1,4 +1,4 @@
-<a href="#"><img width="25%" style="border-radius:50%;" src="https://i.pinimg.com/564x/6b/16/00/6b160049f8a0505a8a1f2a07a9534ead.jpg" /></a>
+<a href="#"></a>
 
 <h1 align="left">Hi, I'm Emmanuel 👋</h1>
 <h3 align="left">Frontend Developer | Web3 | React | Blockchain Enthusiast</h3>
