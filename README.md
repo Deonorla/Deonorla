@@ -1,6 +1,6 @@
 <a href="#"></a>
 
-<h1 align="left">Hi, I'm Emmanuel 👋</h1>
+<h1 align="left">Hi, I'm Deon 👋</h1>
 <h3 align="left">Frontend Developer | Blockchain Enthusiast</h3>
 
 ---
