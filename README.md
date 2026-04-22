@@ -1,7 +1,7 @@
 <a href="#"></a>
 
 <h1 align="left">Hi, I'm Emmanuel 👋</h1>
-<h3 align="left">Frontend Developer | Web3 | React | Blockchain Enthusiast</h3>
+<h3 align="left">Frontend Developer | Blockchain Enthusiast</h3>
 
 ---
 
